@@ -33,7 +33,7 @@ I designed a math quiz 🧮 experiment where five AI agents answer questions and
 Here are some of the key visualizations from the experiment:
 
 - **Final Rankings** 🥇
-- **Performance Over Rounds:** Watch how each agent's performance fluctuated in the graph below, showing their journey through five rounds of debate.
+- **Performance Over Rounds:** Watch how each agent's performance fluctuated in the line graph, showing their journey through five rounds of debate.
 - **Agent Performance in Each Round:** Check out the histogram that compares how each agent scored in individual rounds, showcasing the variance in their responses.
 
 ## 🎉 Conclusion
